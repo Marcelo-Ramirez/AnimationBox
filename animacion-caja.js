@@ -64,3 +64,4 @@ botonHorario.addEventListener('mouseup', pararlacaja)
 const botonAntiHorario = document.getElementById('botonAntiHorario')
 botonAntiHorario.addEventListener('mousedown', moverAntiHorario)
 botonAntiHorario.addEventListener('mouseup', pararlacaja)
+//Comentario
